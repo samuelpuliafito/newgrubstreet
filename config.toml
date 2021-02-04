@@ -60,9 +60,9 @@ tocopen = false
     name = "Tags"
     url = "tags"
 
-  [params.homeInfoParams]
-  Title = "New Grub Street"
-  Content = "*Writing on books, film, and music*"
+#  [params.homeInfoParams]
+#  Title = "New Grub Street"
+#  Content = "*Writing on books, film, and music*"
 
  #[[params.socialIcons]]
 #name = "email"

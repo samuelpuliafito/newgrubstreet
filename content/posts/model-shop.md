@@ -3,7 +3,10 @@ title: "Model Shop - dir. Jacques Demy (1969)"
 date: 2021-01-28T09:30:15-05:00
 draft: false
 tags: ["film", "1960s", "france", "los angeles", "capsule" ]
+summary: The documentary qualities of this film are intensely pleasurable. It is remarkable how little Sunset Blvd. and its environs have changed in almost any meaningful way since 1968. 
 ---
+
+*I originally published this capsule review on [Letterboxd](https://letterboxd.com/). I have adapted it here with minor modifications.*
 
 The documentary qualities of this film are intensely pleasurable. It is remarkable how little Sunset Blvd. and its environs have changed in almost any meaningful way since 1968. The driving shots alone cement this movie in the canon of film, literature, and music about driving in Los Angeles (*Sunset Blvd.*, "The Little Old Lady (from Pasadena)", *The Long Goodbye*, *Zabriskie Point*, *Targets*, *Play It As It Lays*, etc.).
 

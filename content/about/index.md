@@ -31,7 +31,7 @@ New Grub Street is built on [Hugo][hugo link] and uses a modified [PaperMod][pap
 
 *Updated January 27, 2021*
 
-[^1]: The research on this point is significant and not new. See https://www.nngroup.com/articles/how-users-read-on-the-web/
+[^1]: The research on this point is significant and not new. See e.g. https://www.nngroup.com/articles/how-users-read-on-the-web/
 
 [papermod link]: https://git.io/hugopapermod
 [hugo link]: https://gohugo.io/
