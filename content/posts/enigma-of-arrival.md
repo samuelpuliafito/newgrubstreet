@@ -2,7 +2,7 @@
 title: "The Enigma of Arrival: A Novel in Five Sections - V.S. Naipual (1987)"
 date: 2021-02-04T10:49:09-05:00
 draft: false
-tags: ["books", "review", "Britain", "Caribbean", "1980s", "fiction"]
+tags: ["books", "review", "Britain", "Caribbean", "1980s", "fiction", "recommended"]
 summary: Over the course of five sections, *The Enigma of Arrival* draws an autobiographical portrait of an unnamed narrator that strongly resembles the author. Like Naipaul, the narrator is ethnically Hindu, raised in Trinidad, and schooled in England.
 ---
 
