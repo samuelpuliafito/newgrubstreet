@@ -3,7 +3,7 @@ title = "About"
 draft = false
 +++
 
-This website contains my writing on books, film, and music subjects.
+This website contains my writing on books, film, and music.
 
 ### How to read New Grub Street
 
@@ -29,7 +29,7 @@ I want to write more.
 
 New Grub Street is built on [Hugo][hugo link] and uses a modified [PaperMod][papermod link] theme.
 
-*Updated January 27, 2021*
+*Updated February 22, 2021*
 
 [^1]: The research on this point is significant and not new. See e.g. https://www.nngroup.com/articles/how-users-read-on-the-web/
 

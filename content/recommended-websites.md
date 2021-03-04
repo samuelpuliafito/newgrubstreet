@@ -33,7 +33,7 @@ tags: ["recommended"]
 
 **[Jonathan Rosenbaum](https://www.jonathanrosenbaum.net/)** - The most cosmopolitan American film critic. Updated with old and new reviews everyday.
 
-**[Screen Slate](https://www.screenslate.com/)** - Daily listings of screens in New York City. Useful capsule reviews of movies.
+**[Screen Slate](https://www.screenslate.com/)** - Daily listings of screenings in New York City. Useful capsule reviews of movies.
 
 ### Music
 **[Aquarium Drunkard](https://aquariumdrunkard.com)**
@@ -52,7 +52,7 @@ tags: ["recommended"]
 
 ### Other Resources
 
-**[Congressional Research Service Reports](https://crsreports.congress.gov/)** - Authoritative reports on current American and international policy issues. Reports range from a single page to over 100 pages in length. Updated every weekday. 
+**[Congressional Research Service Reports](https://crsreports.congress.gov/)** - Authoritative reports on current American and international policy issues. Reports range from a single page to over 100 pages in length. Updated every weekday.
 
 **[Jotwell](https://jotwell.com/)** - A good resource to keep up with contemporary legal scholarship. Jotwell brought to my attention the fact that the *[Michigan Law Review](https://repository.law.umich.edu/mlr/)* publishes an annual issue (typically the 6th issue in each volume) that reviews significant legal books from the past year.
 
