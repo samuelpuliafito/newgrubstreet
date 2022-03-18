@@ -16,7 +16,9 @@ Bagatelle, which opened in 2019, is
 
 Infrequent and changeable hours, check before you go.
 
-**Malaprops Bookstore**, Asheville - New bookstore with cafe.
+**Malaprops Bookstore**, Asheville 
+
+New bookstore with cafe.
 
 **Mr. K's Bookstore**, Asheville
 
@@ -50,9 +52,9 @@ A bargain basement McKays. Skip.
 
 Intimate (read small) new bookstore in High Point.
 
-**Glenwood Community Bookshop**,
+**Glenwood Community Bookshop**, Greensboro
 
-**Scuppernong Books**,
+**Scuppernong Books**, Greensboro
 
 **McKays,** Greensboro
 
