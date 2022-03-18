@@ -2,11 +2,9 @@
 title = "North Carolina Bookstores"
 
 +++
-### North Carolina Bookstores
-
 North Carolina, along with Virginia and Texas, is home to the best bookstores in the Southeast. Asheville, despite its presence in the state as a tourist destination, has historically been home to an excellent used book trade. Other parts of the state, particularly, the Triangle (Raleigh-Durham-Chapel Hill) have also
 
-#### Mountains
+### Mountains
 
 **Bagatelle Books**, Asheville - _Highest recommendation_
 
@@ -26,7 +24,7 @@ Much like the similar-sounding regional chain of used bookstores-cum-pawn shops 
 
 **Firestorm Books & Coffee**, Asheville
 
-#### Piedmont
+### Piedmont
 
 **McKays**, Winston-Salem
 
@@ -62,8 +60,8 @@ Intimate (read small) new bookstore in High Point.
 
 An eminently skippable bookstore near the University of North Carolina-Greensboro. The store conflates old with interesting.
 
-#### Triangle
+### Triangle
 
-#### Down East and Coastal North Carolina
+### Down East and Coastal North Carolina
 
 Updated 3/18/2022
