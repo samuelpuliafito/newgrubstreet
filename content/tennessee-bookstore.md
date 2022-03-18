@@ -17,13 +17,13 @@ _Used bookstores_
 
 A bargain basement warehouse situated right off the highway. I hate it. I love it.
 
-**Elder's Bookstore**
+**Elder's Bookstore**, Nashville
 
-**Half Price Books**
+**Half Price Books**, Nashville
 
-**Defunct Books**
+**Defunct Books**, Nashville
 
-**The Green Ray**
+**The Green Ray**, Nashville
 
 _New bookstores_
 
