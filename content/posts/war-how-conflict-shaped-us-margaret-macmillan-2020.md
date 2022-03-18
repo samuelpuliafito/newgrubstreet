@@ -1,8 +1,7 @@
 +++
 date = 2022-03-18T05:00:00Z
-draft = true
 summary = "This book is a survey of the effects of war on human society."
-tags = ["review", "2020s", "nonfiction", "books"]
+tags = ["capsule", "review", "2020s", "nonfiction", "books"]
 title = "War: How Conflict Shaped Us - Margaret MacMillan (2020)"
 
 +++
