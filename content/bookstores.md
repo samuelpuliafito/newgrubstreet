@@ -7,6 +7,16 @@ weight = 6
 +++
 Bookstores of the United States
 
+Northeast
+
+Southeast
+
+Midwest
+
+Southwest
+
+Northwest
+
 Alabama  
 Alaska  
 Arizona  
