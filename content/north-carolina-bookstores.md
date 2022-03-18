@@ -9,12 +9,14 @@ North Carolina, along with Virginia and Texas, is home to the best bookstores in
 
 #### Mountains
 
-Bagatelle Books, Asheville - Highly recommended
+**Bagatelle Books**, Asheville - Highly recommended
+
 Bagatelle is the spiritual successor to Chan Gordon's Captain's Bookshelf, which was one of the superlative used bookstores in the region for more than 40 years. Captain's was a beautiful retail store, suffused with excellent, cozy lighting and a surfeit of literary fiction, history, regional titles, and rare and hard-to-find titles. 
 
 Bagatelle, which opened in 2019, is 
 
 Downtown Books and News, Asheville
+
 Infrequent and changeable hours, check before you go.
 
 Malaprops Bookstore, Asheville - New bookstore with cafe.
