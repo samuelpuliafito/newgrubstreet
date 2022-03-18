@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "North Carolina Bookstores"
 
 +++
