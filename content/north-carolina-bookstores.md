@@ -31,13 +31,13 @@ Much like the similar-sounding regional chain of used bookstores-cum-pawn shops 
 
 **McKays**, Winston-Salem
 
-McKay's is the 800-pound gorilla in retail used books in North Carolina and Tennessee. 
+McKay's is the 800-pound gorilla in retail used books in North Carolina and Tennessee.
 
 **Barnes & Noble**, Winston-Salem
 
 **The Eclectible Shop**, Winston-Salem
 
-A disorganized used bookstore with limited turnover and the obligatory musty and humid basement. Not without its charms or occasional finds. The Eclectible Shop has wide selections in art, religion, cooking, political science, and regional history. Its fiction selection leaves much to be desired.
+A disorganized used bookstore with limited turnover and the obligatory musty basement. Not without its charms or occasional finds. The Eclectible Shop has wide selections in art, religion, cooking, political science, and regional history. Its fiction selection leaves much to be desired.
 
 **Bookmarks NC**, Winston-Salem
 
