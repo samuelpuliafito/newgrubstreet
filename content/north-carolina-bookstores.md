@@ -5,15 +5,15 @@ title = "North Carolina Bookstores"
 +++
 ### North Carolina Bookstores
 
-North Carolina, along with Virginia and Texas, is home to the best bookstores in the Southeast. Asheville, despite its , has historically been home to an excellent used book trade. Other parts of the state, particularly, the Triangle (Raleigh-Durham-Chapel Hill) have also 
+North Carolina, along with Virginia and Texas, is home to the best bookstores in the Southeast. Asheville, despite its presence in the state as a tourist destination, has historically been home to an excellent used book trade. Other parts of the state, particularly, the Triangle (Raleigh-Durham-Chapel Hill) have also
 
 #### Mountains
 
-**Bagatelle Books**, Asheville - Highly recommended
+**Bagatelle Books**, Asheville - _Highest recommendation_
 
-Bagatelle is the spiritual successor to Chan Gordon's Captain's Bookshelf, which was one of the superlative used bookstores in the region for more than 40 years. Captain's was a beautiful retail store, suffused with excellent, cozy lighting and a surfeit of literary fiction, history, regional titles, and rare and hard-to-find titles. 
+Bagatelle is the spiritual successor to Chan Gordon's Captain's Bookshelf, which was one of the best used bookstores in the region for more than 40 years. Captain's was a beautiful retail store, suffused with excellent, cozy lighting and a surfeit of literary fiction, history, regional interest, and rare and hard-to-find titles (e.g., first edition of _The Sound and the Fury_ for $15,000).
 
-Bagatelle, which opened in 2019, is 
+Bagatelle, which opened in 2019, is
 
 **Downtown Books and News**, Asheville
 
@@ -23,17 +23,15 @@ Infrequent and changeable hours, check before you go.
 
 **Mr. K's Bookstore**, Asheville
 
-Much like the similar-sounding regional chain of used bookstores-cum-pawn shops McKays, Mr. K's is a highly efficient bookbuying and selling operation in a brightly lit, cavernous strip mall location. Unlike McKays, Mr. K's is staffed by more discerning buyers. As a result, the selection is superior, albeit slightly smaller, than McKay's. 
+Much like the similar-sounding regional chain of used bookstores-cum-pawn shops McKays, Mr. K's is a highly efficient bookbuying and selling operation in a brightly lit, cavernous strip mall location. Unlike McKays, Mr. K's is staffed by more discerning buyers. As a result, the selection is superior, albeit slightly smaller, than McKay's.
 
 **Firestorm Books & Coffee**, Asheville
-
-
 
 #### Piedmont
 
 **McKays**, Winston-Salem
 
-M
+McKay's is the 800-pound gorilla in retail used books in North Carolina and Tennessee. 
 
 **Barnes & Noble**, Winston-Salem
 
@@ -55,9 +53,9 @@ A bargain basement McKays. Skip.
 
 Intimate (read small) new bookstore in High Point.
 
-**Glenwood Community Bookshop**, 
+**Glenwood Community Bookshop**,
 
-**Scuppernong Books**, 
+**Scuppernong Books**,
 
 **McKays,** Greensboro
 
