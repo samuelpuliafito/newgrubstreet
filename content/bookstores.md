@@ -5,9 +5,9 @@ title = "Bookstores"
 weight = 6
 
 +++
-###### Bookstores of the United States
+Bookstores of the United States
 
-###### Alabama  
+Alabama  
 Alaska  
 Arizona  
 Arkansas  
@@ -20,8 +20,7 @@ Georgia
 Hawaii  
 Idaho  
 Illinois
-
-###### Indiana  
+Indiana  
 Iowa  
 Kansas  
 Kentucky  
@@ -34,8 +33,7 @@ Minnesota
 Mississippi  
 Missouri  
 Montana
-
-###### Nebraska  
+Nebraska  
 Nevada  
 New Hampshire  
 New Jersey  
@@ -47,8 +45,7 @@ Ohio
 Oklahoma  
 Oregon  
 Pennsylvania
-
-###### Rhode Island  
+Rhode Island  
 South Carolina  
 South Dakota  
 Tennessee  
@@ -60,5 +57,3 @@ Washington
 West Virginia  
 Wisconsin  
 Wyoming
-
-###### 
