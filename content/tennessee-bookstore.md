@@ -3,7 +3,7 @@ draft = true
 title = "Tennessee Bookstores"
 
 +++
-Tennessee lacks bo
+Tennessee lacks a significant bookstore culture, unlike its neighboring states.
 
 ### Memphis
 
@@ -16,6 +16,14 @@ _Used bookstores_
 **McKay's**, Nashville
 
 A bargain basement warehouse situated right off the highway. I hate it. I love it.
+
+**Elder's Bookstore**
+
+**Half Price Books**
+
+**Defunct Books**
+
+**The Green Ray**
 
 _New bookstores_
 
