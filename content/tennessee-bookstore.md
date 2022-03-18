@@ -3,11 +3,9 @@ draft = true
 title = "Tennessee Bookstore"
 
 +++
-### Tennessee Bookstores
-
 Tennessee lacks bo
 
-#### Memphis
+## Memphis
 
 **Bagatelle Books**, Asheville - _Highest recommendation_
 
