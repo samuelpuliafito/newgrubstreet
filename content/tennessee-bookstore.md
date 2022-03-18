@@ -43,7 +43,7 @@ New books
 
 **Parnassus Books**, Nashville
 
-A bookstore that rests on its independent laurels and the much-publicized ownership interest of Ann Patchett. The selection harbors no risk-taking at all. Its conservative streak is most apparent in its non-fiction, which features the political memoir of the week and sad paeans to land conservation written by sad sack C-list journalists. So miserably bland, it makes Barnes & Noble look like Shakespeare & Co. 
+A bookstore that rests on its independent laurels and the much-publicized ownership interest of Ann Patchett. The selection harbors no risk-taking at all. Its conservative streak is most apparent in its non-fiction, which features the political memoir of the week and sad paeans to land conservation written by sad sack C-list journalists. So miserably bland, it makes Barnes & Noble look like Shakespeare & Co. The bookstore that Nashville (writ large and suburban) deserves.
 
 **The Bookshop**, Nashville
 
