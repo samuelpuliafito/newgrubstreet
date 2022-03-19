@@ -1,7 +1,7 @@
 +++
 date = 2022-03-19T05:00:00Z
 summary = "The Hole is a short, intense vignette of an attempt to smuggle drugs into a prison."
-tags = ["1960s", "translated", "Mexico", "capsule", "review", "fiction"]
+tags = ["recommended", "1960s", "translated", "Mexico", "capsule", "review", "fiction"]
 title = "The Hole - José Revueltas (trans. Sophie Hughes and Amanda Hopkinson) (1969)"
 
 +++
