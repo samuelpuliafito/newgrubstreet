@@ -21,9 +21,15 @@ A bargain basement warehouse situated right off the highway. I hate it. I love i
 
 **Half Price Books**, Nashville
 
+This Half Price Books lacks the mangy and hungry quality that characterizes the chain in Texas. Instead, it has adopted the brightly lit and sterile qualities found at McKay's and Books-a-Million. Unlike McKay's, it is competently organized
+
 **Defunct Books**, Nashville
 
 **The Green Ray**, Nashville
+
+Modest and highly curated new and used art and photography bookstore with a few assorted vinyl records in a small shopping arcade. The record selection primarily consisted of new Light in the Attic reissues. The name of the store alludes, I assume, to the 1986 Rohmer film of the same name.
+
+The level of curation means that the store only carries \~50 different titles.  A selection this small would appropriate if the selected titles were more thematically cohesive or unique. The Wallpaper City Guide to Nashville belies the curatorial sparseness--this is a title that can easily be found in gift shops throughout the city. This store wants to be MAST Books, but it doesn't have the market or buying ability that make a store like MAST able to exist. The Green Ray also carries vinyl records. 
 
 _New bookstores_
 
