@@ -62,7 +62,7 @@ tags:
 
 [**Jotwell**](https://jotwell.com/) - A good resource to keep up with contemporary legal scholarship. Jotwell brought to my attention the fact that the [_Michigan Law Review_](https://repository.law.umich.edu/mlr/) publishes an annual issue (typically the 6th issue in each volume) that reviews significant legal books from the past year.
 
-[**Marginalia**](https://search.marginalia.nu/ "https://search.marginalia.nu/") - "Search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed."
+[**Marginalia**](https://search.marginalia.nu/ "https://search.marginalia.nu/") - "Search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed." Not nearly as interesting or useful as you might hope, but this website does provide a nice counter to the information-deadening effects of Google and algorithmic recommendation.
 
 _Updated March 19, 2022_
 
