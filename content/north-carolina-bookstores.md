@@ -17,7 +17,7 @@ Bagatelle, which opened in 2019, is
 
 Infrequent and changeable hours, check before you go.
 
-**Malaprops Bookstore**, Asheville 
+**Malaprops Bookstore**, Asheville
 
 New bookstore with cafe.
 
