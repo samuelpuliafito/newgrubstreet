@@ -22,6 +22,8 @@ tags:
 
 [**4Columns**](https://4columns.org/) - Four columns of arts criticism updated weekly. Each column is roughly 1,000 words.
 
+[**caa.reviwes**](http://www.caareviews.org/) - Concise, critical reviews of books, exhibitions, and projects in all areas and periods of art history and visual studies.
+
 [**The Baffler**](https://thebaffler.com/) - Irreverent criticism of politics and culture.
 
 [**New Models**](https://newmodels.io) - Aggregator of interesting criticism with some original content.
