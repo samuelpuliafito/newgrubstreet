@@ -1,66 +1,73 @@
 ---
-title: "Recommended Websites"
-# date: 2021-01-26T21:31:18-05:00
-draft: false
-tags: ["recommended"]
+title: Recommended Websites
+tags:
+- recommended
+
 ---
-
 ### Books
-**[The Hudson Review](https://hudsonreview.com/)**
 
-**[The Literary Saloon](https://www.complete-review.com/saloon/index.htm)** - Daily coverage of literary news with an international focus. The website also contains an extensive book review database.
+[**The Hudson Review**](https://hudsonreview.com/)
 
-**[London Review of Books](https://www.lrb.co.uk/)**
+[**The Literary Saloon**](https://www.complete-review.com/saloon/index.htm) - Daily coverage of literary news with an international focus. The website also contains an extensive book review database.
 
-**[Los Angeles Review of Books](https://lareviewofbooks.org/)**
+[**London Review of Books**](https://www.lrb.co.uk/)
 
-**[The New Rambler](https://newramblerreview.com/)** - Criticism of new academic non-fiction.
+[**Los Angeles Review of Books**](https://lareviewofbooks.org/)
 
-**[New York Review of Books](https://www.nybooks.com/)**
+[**The New Rambler**](https://newramblerreview.com/) - Criticism of new academic non-fiction.
+
+[**New York Review of Books**](https://www.nybooks.com/)
 
 ### General Media Criticism
-**[4Columns](https://4columns.org/)** - Four columns of arts criticism updated weekly. Each column is roughly 1,000 words.
 
-**[The Baffler](https://thebaffler.com/)** - Irreverent criticism of politics and culture.
+[**4Columns**](https://4columns.org/) - Four columns of arts criticism updated weekly. Each column is roughly 1,000 words.
 
-**[New Models](https://newmodels.io)** - Aggregator of interesting criticism with some original content.
+[**The Baffler**](https://thebaffler.com/) - Irreverent criticism of politics and culture.
 
-**[Scaruffi](https://scaruffi.com/)** - Encyclopedic and idiosyncratic capsule reviews of music and literature.
+[**New Models**](https://newmodels.io) - Aggregator of interesting criticism with some original content.
 
-**[Works in Progress](https://worksinprogress.co/)** - Historical analyses of technology.
+[**Scaruffi**](https://scaruffi.com/) - Encyclopedic and idiosyncratic capsule reviews of music and literature.
+
+[**Works in Progress**](https://worksinprogress.co/) - Historical analyses of technology.
+
 ### Movies
-**[Filmgrab](https://film-grab.com/)** - Repository of film screengrabs.
 
-**[Jonathan Rosenbaum](https://www.jonathanrosenbaum.net/)** - The most cosmopolitan American film critic. Updated with old and new reviews everyday.
+[**Filmgrab**](https://film-grab.com/) - Repository of film screengrabs.
 
-**[Screen Slate](https://www.screenslate.com/)** - Daily listings of screenings in New York City. Useful capsule reviews of movies.
+[**Jonathan Rosenbaum**](https://www.jonathanrosenbaum.net/) - The most cosmopolitan American film critic. Updated with old and new reviews everyday.
+
+[**Screen Slate**](https://www.screenslate.com/) - Daily listings of screenings in New York City. Useful capsule reviews of movies.
 
 ### Music
-**[Aquarium Drunkard](https://aquariumdrunkard.com)**
 
-**[A Closer Listen](https://acloserlisten.com)**
+[**Aquarium Drunkard**](https://aquariumdrunkard.com)
 
-**[The Attic](https://members.tripod.com/lysergia_2/AcidArchives/lamaAttic.htm)**
+[**A Closer Listen**](https://acloserlisten.com)
 
-**[Doom & Gloom From The Tomb](https://doomandgloomfromthetomb.tumblr.com/)** - Bootlegs, mixes, and recommendations from an Aquarium Drunkard editor.
+[**The Attic**](https://members.tripod.com/lysergia_2/AcidArchives/lamaAttic.htm)
 
-**[Honest Jon's Latest 100 Arrivals](https://honestjons.com/shop/Latest_100_arrivals)** - A nice way to find music to listen to when you're in a rut.
+[**Doom & Gloom From The Tomb**](https://doomandgloomfromthetomb.tumblr.com/) - Bootlegs, mixes, and recommendations from an Aquarium Drunkard editor.
 
-**[Raven Sings the Blues](http://www.ravensingstheblues.com/)** - Similar to *Aquarium Drunkard* mentioned above but updated more frequently. Focuses more on new music.
+[**Honest Jon's Latest 100 Arrivals**](https://honestjons.com/shop/Latest_100_arrivals) - A nice way to find music to listen to when you're in a rut.
 
-**[Wire](https://www.thewire.co.uk/)** - The standard periodical for avant-garde music (excluding classical generally speaking).
+[**Raven Sings the Blues**](http://www.ravensingstheblues.com/) - Similar to _Aquarium Drunkard_ mentioned above but updated more frequently. Focuses more on new music.
+
+[**Wire**](https://www.thewire.co.uk/) - The standard periodical for avant-garde music (excluding classical generally speaking).
 
 ### Other Resources
 
-**[Congressional Research Service Reports](https://crsreports.congress.gov/)** - Authoritative reports on current American and international policy issues. Reports range from a single page to over 100 pages in length. Updated every weekday.
+[**Congressional Research Service Reports**](https://crsreports.congress.gov/) - Authoritative reports on current American and international policy issues. Reports range from a single page to over 100 pages in length. Updated every weekday.
 
-**[Jotwell](https://jotwell.com/)** - A good resource to keep up with contemporary legal scholarship. Jotwell brought to my attention the fact that the *[Michigan Law Review](https://repository.law.umich.edu/mlr/)* publishes an annual issue (typically the 6th issue in each volume) that reviews significant legal books from the past year.
+[**Jotwell**](https://jotwell.com/) - A good resource to keep up with contemporary legal scholarship. Jotwell brought to my attention the fact that the [_Michigan Law Review_](https://repository.law.umich.edu/mlr/) publishes an annual issue (typically the 6th issue in each volume) that reviews significant legal books from the past year.
 
-*Updated February 15, 2021*
+[**Marginalia**](https://search.marginalia.nu/ "https://search.marginalia.nu/") - "Search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed."
+
+_Updated March 19, 2022_
 
 ***
 
-*Future page goals*
-  * Add websites
-  * Flesh out annotations
-  * Add representative posts where appropriate
+_Future page goals_
+
+* Add websites
+* Flesh out annotations
+* Add representative posts where appropriate
