@@ -6,6 +6,8 @@ tags:
 ---
 ### Books
 
+[**Book Sale Finder**](https://booksalefinder.com/index.html)
+
 [**The Hudson Review**](https://hudsonreview.com/)
 
 [**The Literary Saloon**](https://www.complete-review.com/saloon/index.htm) - Daily coverage of literary news with an international focus. The website also contains an extensive book review database.
