@@ -1,7 +1,6 @@
 ---
 title: Recommended Websites
-tags:
-- recommended
+tags: []
 
 ---
 ### Books
@@ -24,7 +23,7 @@ tags:
 
 [**4Columns**](https://4columns.org/) - Four columns of arts criticism updated weekly. Each column is roughly 1,000 words.
 
-[**caa.reviwes**](http://www.caareviews.org/) - Concise, critical reviews of books, exhibitions, and projects in all areas and periods of art history and visual studies.
+[**caa.reviews**](http://www.caareviews.org/) - Concise, critical reviews of books, exhibitions, and projects in all areas and periods of art history and visual studies.
 
 [**The Baffler**](https://thebaffler.com/) - Irreverent criticism of politics and culture.
 
@@ -66,7 +65,7 @@ tags:
 
 [**Marginalia**](https://search.marginalia.nu/ "https://search.marginalia.nu/") - "Search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed." Not nearly as interesting or useful as you might hope, but this website does provide a nice counter to the information-deadening effects of Google and algorithmic recommendation.
 
-_Updated March 19, 2022_
+_Updated March 24, 2022_
 
 ***
 
