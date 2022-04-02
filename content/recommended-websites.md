@@ -7,6 +7,8 @@ tags: []
 
 [**Book Sale Finder**](https://booksalefinder.com/index.html)
 
+[**Book Marks**](https://bookmarks.reviews/) - Book review aggregator.
+
 [**The Hudson Review**](https://hudsonreview.com/)
 
 [**The Literary Saloon**](https://www.complete-review.com/saloon/index.htm) - Daily coverage of literary news with an international focus. The website also contains an extensive book review database.
@@ -65,7 +67,7 @@ tags: []
 
 [**Marginalia**](https://search.marginalia.nu/ "https://search.marginalia.nu/") - "Search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed." Not nearly as interesting or useful as you might hope, but this website does provide a nice counter to the information-deadening effects of Google and algorithmic recommendation.
 
-_Updated March 24, 2022_
+_Updated April 2, 2022_
 
 ***
 
